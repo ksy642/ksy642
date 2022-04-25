@@ -1,6 +1,12 @@
-### Hi there 👋
+### 안녕하세요 김세윤 입니다. 👋
 
-<!--
+유니티 기반으로 만든 포트폴리오 영상입니다
+https://www.youtube.com/watch?v=2jW_m-6XHYQ
+
+(추가)좀비와 전투영상
+https://www.youtube.com/watch?v=4CEUM8pPtOg
+
+<!-- 
 **ksy642/ksy642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
