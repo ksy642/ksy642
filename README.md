@@ -1,9 +1,12 @@
 ### 안녕하세요 김세윤 입니다. 👋
 
-유니티 기반으로 만든 포트폴리오 영상입니다
-https://www.youtube.com/watch?v=2jW_m-6XHYQ
+※ 유니티 기반으로 만든 포트폴리오 영상입니다
+곧 25년 초부터 죽 진행한 프로젝트 알파테스트 영상 올라올 예정
 
-(추가)좀비와 전투영상
+
+
+-22년 초에 만든 프로젝트 UntilTheEnd 초기버전-
+https://www.youtube.com/watch?v=2jW_m-6XHYQ
 https://www.youtube.com/watch?v=4CEUM8pPtOg
 
 <!-- 
