@@ -1,12 +1,18 @@
-### 안녕하세요 김세윤 입니다. 👋
+### 안녕하세요. UntilTheEnd를 개발 중인 김세윤입니다. 👋
 
-※ 유니티 기반으로 만든 포트폴리오 영상입니다
-곧 25년 초부터 죽 진행한 프로젝트 알파테스트 영상 올라올 예정
+※ Unity 기반으로 개발 중인 포트폴리오 프로젝트입니다.  
+2025년 초부터 꾸준히 업데이트 중입니다.  
 
+https://www.youtube.com/watch?v=e4h62L8k_EM&feature=youtu.be
 
+---
 
--22년 초에 만든 프로젝트 UntilTheEnd 초기버전-
+### 이전 작업 영상
+
+**2022년 초에 제작한 UntilTheEnd 초기 버전**
+
 https://www.youtube.com/watch?v=2jW_m-6XHYQ
+
 https://www.youtube.com/watch?v=4CEUM8pPtOg
 
 <!-- 
